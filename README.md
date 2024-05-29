@@ -1,6 +1,6 @@
 <div align="center">
   <div id="readme-top">
-    <a href="https://github.com/hjenp22?tab=repositories">
+    <a href="https://github.com/jennixchi?tab=repositories">
       <img src="https://img.shields.io/badge/GitHub-My_Profile-pink?style=for-the-badge&logo=github" alt="GitHub">
     </a>
     <a href="https://www.linkedin.com/in/hjennip">
